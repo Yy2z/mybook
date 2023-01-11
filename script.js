@@ -131,7 +131,7 @@ class CreateParticles {
 
 		this.data = {
 
-			text: 'KFCVW 50',
+			text: 'KFC\n VW\n 50',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
